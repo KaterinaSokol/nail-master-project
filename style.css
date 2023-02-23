@@ -36,8 +36,6 @@ body{
 .container{
     margin: 0 auto;
     max-width: 950px;
-    /*border: 1px solid black;   /*строка для наглядности, удалить потом*/ 
-    /*padding-left: 10px;*/ 
     background: whitesmoke;  
     padding-left: 20px;
     margin-bottom: 100px;
@@ -46,7 +44,6 @@ body{
 .menu{
     display: flex;
     justify-content: flex-end;
-    /*border: 1px solid black;   строка для наглядности, удалить потом*/
     margin: 0 auto;
     padding: 0 30px;
     margin-bottom: 100px;
